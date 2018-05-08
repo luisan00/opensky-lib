@@ -1,5 +1,5 @@
 {
-  "name": "opensky",
+  "name": "opensky-lib",
   "version": "0.1.0",
   "description": "Dependency free library for node.js, for tracking real time flight data",
   "main": "src/opensky.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luisan00/opensky.git"
+    "url": "git+https://github.com/luisan00/opensky-lib.git"
   },
   "keywords": [
     "realtime",
@@ -22,7 +22,7 @@
   "author": "luisan00",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/luisan00/opensky/issues"
+    "url": "https://github.com/luisan00/opensky-lib/issues"
   },
-  "homepage": "https://github.com/luisan00/opensky#readme"
+  "homepage": "https://github.com/luisan00/opensky-lib#readme"
 }

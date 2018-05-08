@@ -4,11 +4,15 @@
 Dependency free library for node.js, for tracking real time flight data
 thanks to the great work of The OpenSky Network, http://www.opensky-network.org
 
-## Install
+## Installation
+Using npm:
 ```bash
 npm install opensky
 ```
-
+## How to use opensky
+```js
+// empty block code
+```
 ## Contributing
 I'll be happy to hear your ideas or fix some bug.
 Please feel free to send me a message or create a new issue.
