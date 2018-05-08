@@ -9,7 +9,7 @@ thanks to the great work of The OpenSky Network, http://www.opensky-network.org
 npm install opensky
 ```
 
-##Contributing
+## Contributing
 I'll be happy to hear your ideas or fix some bug.
 Please feel free to send me a message or create a new issue.
 
