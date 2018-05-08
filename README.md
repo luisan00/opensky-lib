@@ -1,7 +1,7 @@
 # opensky-lib
 -WORK IN PROGRESS-
 
-Dependency free library for node.js, for tracking real time flight data
+Dependency free node.js library for tracking real time flight data
 thanks to the great work of The OpenSky Network, http://www.opensky-network.org
 
 ## Installation
@@ -9,9 +9,21 @@ Using npm:
 ```bash
 npm install opensky-lib
 ```
-## How to use opensky-lib
+## Usage
 ```js
-// empty block code
+const opensky = require('opensky-lib');
+
+// Create an instance as anonymous user:
+const openSky = new opensky();
+
+// With credentials:
+const openSky = new opensky('your_user_name', 'your_account_password');
+
+// Alternatively you can use an object with your credentials as the following example shows:
+const openSky = new opensky({user: 'user_name', pass: 'account_password'});
+
+
+// ..to be continue
 ```
 ## Contributing
 I'll be happy to hear your ideas or fix some bug.
