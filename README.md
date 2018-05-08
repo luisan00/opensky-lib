@@ -1,4 +1,4 @@
-# opensky
+# opensky-lib
 -WORK IN PROGRESS-
 
 Dependency free library for node.js, for tracking real time flight data
@@ -7,9 +7,9 @@ thanks to the great work of The OpenSky Network, http://www.opensky-network.org
 ## Installation
 Using npm:
 ```bash
-npm install opensky
+npm install opensky-lib
 ```
-## How to use opensky
+## How to use opensky-lib
 ```js
 // empty block code
 ```
@@ -18,9 +18,8 @@ I'll be happy to hear your ideas or fix some bug.
 Please feel free to send me a message or create a new issue.
 
 ## LICENSE
-
 Copyright (C) 2018 luisan00
-Licensed under the GNU General Public License version 3 GPL-3[GPL-3]
+Licensed under the GNU General Public License version v3.0 (GPL-3)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
