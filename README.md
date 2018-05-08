@@ -1,7 +1,7 @@
 # opensky
 -WORK IN PROGRESS-
 
-Dependency free library for node.js, for tracking realtime flights data
+Dependency free library for node.js, for tracking real time flight data
 thanks to the great work of The OpenSky Network, http://www.opensky-network.org
 
 ## Install
